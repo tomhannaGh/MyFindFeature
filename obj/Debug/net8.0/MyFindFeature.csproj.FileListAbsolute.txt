@@ -1,0 +1,14 @@
+C:\Users\Coder\source\repos\MyFindFeature\bin\Debug\net8.0\MyFindFeature.exe
+C:\Users\Coder\source\repos\MyFindFeature\bin\Debug\net8.0\MyFindFeature.deps.json
+C:\Users\Coder\source\repos\MyFindFeature\bin\Debug\net8.0\MyFindFeature.runtimeconfig.json
+C:\Users\Coder\source\repos\MyFindFeature\bin\Debug\net8.0\MyFindFeature.dll
+C:\Users\Coder\source\repos\MyFindFeature\bin\Debug\net8.0\MyFindFeature.pdb
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.AssemblyInfoInputs.cache
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.AssemblyInfo.cs
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.csproj.CoreCompileInputs.cache
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.dll
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\refint\MyFindFeature.dll
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.pdb
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\MyFindFeature.genruntimeconfig.cache
+C:\Users\Coder\source\repos\MyFindFeature\obj\Debug\net8.0\ref\MyFindFeature.dll
